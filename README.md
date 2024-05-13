@@ -12,7 +12,7 @@ O problema do "Jantar dos Filósofos" é um clássico problema de sincronizaçã
 
 Imagine que cinco filósofos estão sentados em torno de uma mesa redonda. Entre cada par de filósofos, há um garfo. Para comer, um filósofo precisa dos dois garfos adjacentes à sua cadeira. No entanto, cada garfo só pode ser usado por um filósofo de cada vez. Portanto, o problema surge quando todos os filósofos pegam o garfo à sua esquerda ao mesmo tempo. Nesse caso, nenhum filósofo pode pegar o garfo à sua direita e todos ficam em espera eterna.
 
-## Soluçã
+## Solução
 
 Uma solução para este problema é usar semáforos para controlar o acesso aos garfos, garantindo que os filósofos peguem os garfos de forma coordenada e evitem impasses.
 
