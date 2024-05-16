@@ -35,7 +35,7 @@ Para executar o código, basta compilar os arquivos `.java` e executar o arquivo
 
 - [**Deviante** - jantar dos filosofos](https://www.deviante.com.br/noticias/entre-forks-e-segredos/#:~:text=Starvation,evento%20também%20conhecido%20como%20Starvation.)
 
-## 🧑‍💻 Autor
+## 👨‍💻 Desenvolvedor
 
 Este exemplo foi desenvolvido por <br>
 <table>
