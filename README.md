@@ -27,7 +27,7 @@ Este repositório contém uma implementação simples do problema do Jantar dos 
 
 ## Code execução
    ```java
-      public void run() {
+    public void run() {
         while (true) {
             try {
                 pensar();
