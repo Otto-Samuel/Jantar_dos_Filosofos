@@ -25,6 +25,22 @@ Este repositório contém uma implementação simples do problema do Jantar dos 
 - Cada filósofo alterna entre pensar, pegar garfos, comer e largar garfos.
 - Os semáforos são usados para garantir que os filósofos peguem os garfos de forma coordenada.
 
+## Code execução
+   ```java
+      public void run() {
+        while (true) {
+            try {
+                pensar();
+                pegarGarfos();
+                comer();
+                largarGarfos();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+   ```
+
 ## Como Executar
 
 Para executar o código, basta compilar os arquivos `.java` e executar o arquivo `.class` da classe principal `JantarDosFilosofos`.
